@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T01:43:48.580Z" agent="5.0 (Windows)" etag="UMxkl8TcRccDu3HGh3Vo" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T07:00:54.282Z" agent="5.0 (Windows)" etag="K7VAAKUU2yd6zFIxyli9" version="16.2.4" type="github">
   <diagram id="WjtdyD3cR-xEmJexhKSp" name="Page-1">
     <mxGraphModel dx="981" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3173,6 +3173,12 @@
             <mxPoint x="530.4" y="3510" as="sourcePoint" />
             <mxPoint x="580.4" y="3460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lBksDmYaPmXmobbdkvJN-69" value="WPL = 1* 2+ 3 * 2 + 5 * 2 + 7 * 2 = 32" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="76.92" y="3770" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lBksDmYaPmXmobbdkvJN-70" value="WPL = 1* 3+ 3 * 3 + 5 * 2 + 7 * 1 = 29" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398" y="3765" width="232" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
